@@ -1,0 +1,6 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: proiectPAW, Configuration: Debug Any CPU ------
+1>C:\Users\Nana\Desktop\facultate\AN II\SEM II\PAW\proiectPAW\proiectPAW\Orar.cs(43,18,43,23): warning CS0219: The variable 'gasit' is assigned but its value is never used
+1>C:\Users\Nana\Desktop\facultate\AN II\SEM II\PAW\proiectPAW\proiectPAW\Orar.cs(59,18,59,23): warning CS0219: The variable 'gasit' is assigned but its value is never used
+1>  proiectPAW -> C:\Users\Nana\Desktop\facultate\AN II\SEM II\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
